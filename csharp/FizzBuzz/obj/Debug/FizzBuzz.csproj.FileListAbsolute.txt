@@ -1,0 +1,9 @@
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\FizzBuzz\obj\Debug\FizzBuzz.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FizzBuzz\obj\Debug\FizzBuzz.pdb

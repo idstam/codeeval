@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\bin\Debug\OverlappingRectangles.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\bin\Debug\OverlappingRectangles.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\bin\Debug\OverlappingRectangles.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\obj\Debug\OverlappingRectangles.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\obj\Debug\OverlappingRectangles.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OverlappingRectangles\obj\Debug\OverlappingRectangles.pdb

@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\bin\Debug\DataRecovery.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\obj\Debug\DataRecovery.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\bin\Debug\DataRecovery.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\bin\Debug\DataRecovery.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\obj\Debug\DataRecovery.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\DataRecovery\obj\Debug\DataRecovery.pdb

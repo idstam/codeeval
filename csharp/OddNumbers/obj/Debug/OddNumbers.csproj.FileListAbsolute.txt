@@ -1,0 +1,12 @@
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\bin\Debug\OddNumbers.exe.config
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\bin\Debug\OddNumbers.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\bin\Debug\OddNumbers.pdb
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\obj\Debug\OddNumbers.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\obj\Debug\OddNumbers.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\OddNumbers\obj\Debug\OddNumbers.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\bin\Debug\OddNumbers.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\bin\Debug\OddNumbers.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\bin\Debug\OddNumbers.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\obj\Debug\OddNumbers.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\obj\Debug\OddNumbers.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\OddNumbers\obj\Debug\OddNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\bin\Debug\PrimePalindrome.exe.config
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\obj\Debug\PrimePalindrome.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\bin\Debug\PrimePalindrome.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\bin\Debug\PrimePalindrome.pdb
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\obj\Debug\PrimePalindrome.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\PrimePalindrome\obj\Debug\PrimePalindrome.pdb

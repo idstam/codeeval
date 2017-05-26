@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\bin\Debug\FacebookChallenge.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\obj\Debug\FacebookChallenge.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\bin\Debug\FacebookChallenge.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\bin\Debug\FacebookChallenge.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\obj\Debug\FacebookChallenge.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\FacebookChallenge\obj\Debug\FacebookChallenge.pdb

@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\bin\Debug\NumberOfOnes.exe.config
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\bin\Debug\NumberOfOnes.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\bin\Debug\NumberOfOnes.pdb
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\obj\Debug\NumberOfOnes.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\obj\Debug\NumberOfOnes.exe
+D:\Syncthing\klienter\jsiSoft\github\codeeval_csharp\NumberOfOnes\obj\Debug\NumberOfOnes.pdb

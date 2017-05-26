@@ -1,0 +1,6 @@
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\obj\Debug\SumOfPrimes.csprojResolveAssemblyReference.cache
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\bin\Debug\SumOfPrimes.exe.config
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\bin\Debug\SumOfPrimes.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\bin\Debug\SumOfPrimes.pdb
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\obj\Debug\SumOfPrimes.exe
+D:\Syncthing\klienter\jsiSoft\src\codeeval\CodeEval\SumOfPrimes\obj\Debug\SumOfPrimes.pdb
